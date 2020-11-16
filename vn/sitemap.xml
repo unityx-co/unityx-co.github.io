@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://unityx.co/vn/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://unityx.co/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vn"
+                href="https://unityx.co/vn/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://unityx.co/vn/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://unityx.co/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vn"
+                href="https://unityx.co/vn/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://unityx.co/vn/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://unityx.co/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vn"
+                href="https://unityx.co/vn/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://unityx.co/vn/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://unityx.co/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vn"
+                href="https://unityx.co/vn/"
+                />
+  </url>
+  
+</urlset>
