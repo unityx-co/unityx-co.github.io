@@ -6,15 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-<<<<<<< HEAD
     <title>shortcodes on Unity X</title>
     <link>https://unityx.co/tags/shortcodes/</link>
     <description>Recent content in shortcodes on Unity X</description>
-=======
-    <title>shortcodes on Hugo Zzo Theme</title>
-    <link>http://example.org/tags/shortcodes/</link>
-    <description>Recent content in shortcodes on Hugo Zzo Theme</description>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
@@ -22,11 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 19 Dec 2019 12:00:06 +0900</lastBuildDate>
     
-<<<<<<< HEAD
         <atom:link href="https://unityx.co/tags/shortcodes/index.xml" rel="self" type="application/rss+xml" />
-=======
-        <atom:link href="http://example.org/tags/shortcodes/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     
     
     
@@ -34,7 +24,6 @@
       
       <item>
         <title>Rich Content</title>
-<<<<<<< HEAD
         <link>https://unityx.co/posts/rich-content/</link>
         <pubDate>Thu, 19 Dec 2019 12:00:06 +0900</pubDate>
         <author>zzossig@gmail.com (zzossig)</author>
@@ -44,17 +33,6 @@
         
         <dc:creator>Lee</dc:creator>
         <media:content url="https://unityx.coimages/feature2/content.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-=======
-        <link>http://example.org/posts/rich-content/</link>
-        <pubDate>Thu, 19 Dec 2019 12:00:06 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
-        <atom:modified>Thu, 19 Dec 2019 12:00:06 +0900</atom:modified>
-        <guid>http://example.org/posts/rich-content/</guid>
-        <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
-        
-        <dc:creator>Lee</dc:creator>
-        <media:content url="http://example.orgimages/feature2/content.png" medium="image"><media:title type="html">featured image</media:title></media:content>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
         
         
         

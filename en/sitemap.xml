@@ -3,627 +3,347 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/showcase/hugo/hugo-theme-zzo/</loc>
-=======
-    <loc>http://example.org/showcase/hugo/hugo-theme-zzo/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/showcase/hugo/hugo-theme-zdoc/</loc>
-=======
-    <loc>http://example.org/showcase/hugo/hugo-theme-zdoc/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/publication/article/</loc>
-=======
-    <loc>http://example.org/publication/article/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/publication/book/</loc>
-=======
-    <loc>http://example.org/publication/book/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/publication/misc/</loc>
-=======
-    <loc>http://example.org/publication/misc/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/publication/</loc>
-=======
-    <loc>http://example.org/publication/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/posts/</loc>
-=======
-    <loc>http://example.org/posts/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/tags/shortcode/</loc>
-=======
-    <loc>http://example.org/tags/shortcode/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/posts/shortcodes/</loc>
-=======
-    <loc>http://example.org/posts/shortcodes/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/tags/</loc>
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vn"
                 href="https://unityx.co/vn/tags/"
-=======
-    <loc>http://example.org/tags/</loc>
-    <lastmod>2020-01-25T06:40:51+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://example.org/ko/tags/"
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-<<<<<<< HEAD
                 href="https://unityx.co/tags/"
-=======
-                href="http://example.org/tags/"
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
                 />
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/showcase/hugo/</loc>
-=======
-    <loc>http://example.org/showcase/hugo/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2020-01-19T21:04:11+09:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/showcase/</loc>
-=======
-    <loc>http://example.org/showcase/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2020-01-19T15:43:38+09:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/categories/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vn"
                 href="https://unityx.co/vn/categories/"
-=======
-    <loc>http://example.org/categories/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://example.org/ko/categories/"
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-<<<<<<< HEAD
                 href="https://unityx.co/categories/"
-=======
-                href="http://example.org/categories/"
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
                 />
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/tags/css/</loc>
-=======
-    <loc>http://example.org/tags/css/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/tags/html/</loc>
-=======
-    <loc>http://example.org/tags/html/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/tags/markdown/</loc>
-=======
-    <loc>http://example.org/tags/markdown/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/posts/markdown-syntax/</loc>
-=======
-    <loc>http://example.org/posts/markdown-syntax/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/series/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vn"
                 href="https://unityx.co/vn/series/"
-=======
-    <loc>http://example.org/series/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://example.org/ko/series/"
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-<<<<<<< HEAD
                 href="https://unityx.co/series/"
-=======
-                href="http://example.org/series/"
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
                 />
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/categories/syntax/</loc>
-=======
-    <loc>http://example.org/categories/syntax/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/tags/themes/</loc>
-=======
-    <loc>http://example.org/tags/themes/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/categories/themes/</loc>
-=======
-    <loc>http://example.org/categories/themes/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/series/themes-guide/</loc>
-=======
-    <loc>http://example.org/series/themes-guide/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/tags/privacy/</loc>
-=======
-    <loc>http://example.org/tags/privacy/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2019-12-19T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/posts/rich-content/</loc>
-=======
-    <loc>http://example.org/posts/rich-content/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2019-12-19T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/tags/shortcodes/</loc>
-=======
-    <loc>http://example.org/tags/shortcodes/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2019-12-19T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/tags/hugo/</loc>
-=======
-    <loc>http://example.org/tags/hugo/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2019-12-18T10:33:41+09:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/categories/hugo/</loc>
-=======
-    <loc>http://example.org/categories/hugo/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2019-12-18T10:33:41+09:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/posts/syntax-highlight/</loc>
-=======
-    <loc>http://example.org/posts/syntax-highlight/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2019-12-18T10:33:41+09:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/posts/math-typesetting/</loc>
-=======
-    <loc>http://example.org/posts/math-typesetting/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2019-12-17T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/tags/amoji/</loc>
-=======
-    <loc>http://example.org/tags/amoji/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/tags/bamoji/</loc>
-=======
-    <loc>http://example.org/tags/bamoji/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/tags/emoji/</loc>
-=======
-    <loc>http://example.org/tags/emoji/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/posts/emoji-support/</loc>
-=======
-    <loc>http://example.org/posts/emoji-support/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/tags/gamoji/</loc>
-=======
-    <loc>http://example.org/tags/gamoji/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/tags/namoji/</loc>
-=======
-    <loc>http://example.org/tags/namoji/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/categories/diagram/</loc>
-=======
-    <loc>http://example.org/categories/diagram/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2019-11-18T21:00:06+09:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/posts/test-viz/</loc>
-=======
-    <loc>http://example.org/posts/test-viz/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2019-11-18T21:00:06+09:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/posts/test-wavedrom/</loc>
-=======
-    <loc>http://example.org/posts/test-wavedrom/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2019-11-18T18:00:06+09:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/posts/test-chartjs/</loc>
-=======
-    <loc>http://example.org/posts/test-chartjs/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2019-11-18T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/posts/test-js-sequence-diagrams/</loc>
-=======
-    <loc>http://example.org/posts/test-js-sequence-diagrams/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2019-11-18T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/tags/diagram/</loc>
-=======
-    <loc>http://example.org/tags/diagram/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2019-11-17T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/posts/test-mermaid/</loc>
-=======
-    <loc>http://example.org/posts/test-mermaid/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2019-11-17T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/categories/math/</loc>
-=======
-    <loc>http://example.org/categories/math/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2019-11-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/posts/test-mathjax/</loc>
-=======
-    <loc>http://example.org/posts/test-mathjax/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2019-11-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/posts/test-katex/</loc>
-=======
-    <loc>http://example.org/posts/test-katex/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2019-11-15T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/posts/test-flowchart/</loc>
-=======
-    <loc>http://example.org/posts/test-flowchart/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2019-11-14T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/gallery/cartoon/</loc>
-=======
-    <loc>http://example.org/gallery/cartoon/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/gallery/</loc>
-=======
-    <loc>http://example.org/gallery/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/gallery/photo/</loc>
-=======
-    <loc>http://example.org/gallery/photo/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/presentation/dir/fourth/</loc>
-=======
-    <loc>http://example.org/presentation/dir/fourth/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2019-10-30T20:48:10+09:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/presentation/</loc>
-=======
-    <loc>http://example.org/presentation/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2019-10-30T20:48:10+09:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/presentation/third/</loc>
-=======
-    <loc>http://example.org/presentation/third/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2019-10-30T20:46:30+09:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/presentation/second/</loc>
-=======
-    <loc>http://example.org/presentation/second/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2019-10-30T20:45:24+09:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/presentation/first/</loc>
-=======
-    <loc>http://example.org/presentation/first/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2019-10-30T19:45:20+09:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/archive/</loc>
-=======
-    <loc>http://example.org/archive/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vn"
                 href="https://unityx.co/vn/"
-=======
-    <loc>http://example.org/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://example.org/ko/"
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-<<<<<<< HEAD
                 href="https://unityx.co/"
-=======
-                href="http://example.org/"
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
                 />
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/about/</loc>
-=======
-    <loc>http://example.org/about/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/publication/article/article_any_folder_name_1/</loc>
-=======
-    <loc>http://example.org/publication/article/article_any_folder_name_1/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/publication/book/book_any_folder_name_1/</loc>
-=======
-    <loc>http://example.org/publication/book/book_any_folder_name_1/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/publication/misc/misc_any_folder_name_1/</loc>
-=======
-    <loc>http://example.org/publication/misc/misc_any_folder_name_1/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://unityx.co/tags/index/</loc>
-=======
-    <loc>http://example.org/tags/index/</loc>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
   </url>
   
 </urlset>

@@ -6,15 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-<<<<<<< HEAD
     <title>book on Unity X</title>
     <link>https://unityx.co/publication/book/</link>
     <description>Recent content in book on Unity X</description>
-=======
-    <title>book on Hugo Zzo Theme</title>
-    <link>http://example.org/publication/book/</link>
-    <description>Recent content in book on Hugo Zzo Theme</description>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
@@ -22,11 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 05 Mar 2020 14:08:48 +0000</lastBuildDate>
     
-<<<<<<< HEAD
         <atom:link href="https://unityx.co/publication/book/index.xml" rel="self" type="application/rss+xml" />
-=======
-        <atom:link href="http://example.org/publication/book/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     
     
     
@@ -34,19 +24,11 @@
       
       <item>
         <title>Donec vel ipsum vulputate, dapibus magna quis</title>
-<<<<<<< HEAD
         <link>https://unityx.co/publication/book/book_any_folder_name_1/</link>
         <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
         <author>zzossig@gmail.com (zzossig)</author>
         <atom:modified>Thu, 01 Jun 2017 00:00:00 +0000</atom:modified>
         <guid>https://unityx.co/publication/book/book_any_folder_name_1/</guid>
-=======
-        <link>http://example.org/publication/book/book_any_folder_name_1/</link>
-        <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
-        <atom:modified>Thu, 01 Jun 2017 00:00:00 +0000</atom:modified>
-        <guid>http://example.org/publication/book/book_any_folder_name_1/</guid>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
         <description></description>
         
         <dc:creator>zzossig</dc:creator>

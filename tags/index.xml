@@ -6,15 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-<<<<<<< HEAD
     <title>Tags on Unity X</title>
     <link>https://unityx.co/tags/</link>
     <description>Recent content in Tags on Unity X</description>
-=======
-    <title>Tags on Hugo Zzo Theme</title>
-    <link>http://example.org/tags/</link>
-    <description>Recent content in Tags on Hugo Zzo Theme</description>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
@@ -22,11 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 25 Jan 2020 06:40:51 +0900</lastBuildDate>
     
-<<<<<<< HEAD
         <atom:link href="https://unityx.co/tags/index.xml" rel="self" type="application/rss+xml" />
-=======
-        <atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     
     
     
@@ -34,19 +24,11 @@
       
       <item>
         <title>shortcode</title>
-<<<<<<< HEAD
         <link>https://unityx.co/tags/shortcode/</link>
         <pubDate>Sat, 25 Jan 2020 06:40:51 +0900</pubDate>
         <author>zzossig@gmail.com (zzossig)</author>
         
         <guid>https://unityx.co/tags/shortcode/</guid>
-=======
-        <link>http://example.org/tags/shortcode/</link>
-        <pubDate>Sat, 25 Jan 2020 06:40:51 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
-        
-        <guid>http://example.org/tags/shortcode/</guid>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
         <description></description>
         
         <dc:creator>zzossig</dc:creator>
@@ -60,19 +42,11 @@
       
       <item>
         <title>css</title>
-<<<<<<< HEAD
         <link>https://unityx.co/tags/css/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
         <author>zzossig@gmail.com (zzossig)</author>
         
         <guid>https://unityx.co/tags/css/</guid>
-=======
-        <link>http://example.org/tags/css/</link>
-        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
-        
-        <guid>http://example.org/tags/css/</guid>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
         <description></description>
         
         <dc:creator>zzossig</dc:creator>
@@ -86,19 +60,11 @@
       
       <item>
         <title>html</title>
-<<<<<<< HEAD
         <link>https://unityx.co/tags/html/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
         <author>zzossig@gmail.com (zzossig)</author>
         
         <guid>https://unityx.co/tags/html/</guid>
-=======
-        <link>http://example.org/tags/html/</link>
-        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
-        
-        <guid>http://example.org/tags/html/</guid>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
         <description></description>
         
         <dc:creator>zzossig</dc:creator>
@@ -112,19 +78,11 @@
       
       <item>
         <title>markdown</title>
-<<<<<<< HEAD
         <link>https://unityx.co/tags/markdown/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
         <author>zzossig@gmail.com (zzossig)</author>
         
         <guid>https://unityx.co/tags/markdown/</guid>
-=======
-        <link>http://example.org/tags/markdown/</link>
-        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
-        
-        <guid>http://example.org/tags/markdown/</guid>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
         <description></description>
         
         <dc:creator>zzossig</dc:creator>
@@ -138,19 +96,11 @@
       
       <item>
         <title>themes</title>
-<<<<<<< HEAD
         <link>https://unityx.co/tags/themes/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
         <author>zzossig@gmail.com (zzossig)</author>
         
         <guid>https://unityx.co/tags/themes/</guid>
-=======
-        <link>http://example.org/tags/themes/</link>
-        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
-        
-        <guid>http://example.org/tags/themes/</guid>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
         <description></description>
         
         <dc:creator>zzossig</dc:creator>
@@ -164,19 +114,11 @@
       
       <item>
         <title>privacy</title>
-<<<<<<< HEAD
         <link>https://unityx.co/tags/privacy/</link>
         <pubDate>Thu, 19 Dec 2019 12:00:06 +0900</pubDate>
         <author>zzossig@gmail.com (zzossig)</author>
         
         <guid>https://unityx.co/tags/privacy/</guid>
-=======
-        <link>http://example.org/tags/privacy/</link>
-        <pubDate>Thu, 19 Dec 2019 12:00:06 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
-        
-        <guid>http://example.org/tags/privacy/</guid>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
         <description></description>
         
         <dc:creator>zzossig</dc:creator>
@@ -190,19 +132,11 @@
       
       <item>
         <title>shortcodes</title>
-<<<<<<< HEAD
         <link>https://unityx.co/tags/shortcodes/</link>
         <pubDate>Thu, 19 Dec 2019 12:00:06 +0900</pubDate>
         <author>zzossig@gmail.com (zzossig)</author>
         
         <guid>https://unityx.co/tags/shortcodes/</guid>
-=======
-        <link>http://example.org/tags/shortcodes/</link>
-        <pubDate>Thu, 19 Dec 2019 12:00:06 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
-        
-        <guid>http://example.org/tags/shortcodes/</guid>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
         <description></description>
         
         <dc:creator>zzossig</dc:creator>
@@ -216,19 +150,11 @@
       
       <item>
         <title>hugo</title>
-<<<<<<< HEAD
         <link>https://unityx.co/tags/hugo/</link>
         <pubDate>Wed, 18 Dec 2019 10:33:41 +0900</pubDate>
         <author>zzossig@gmail.com (zzossig)</author>
         
         <guid>https://unityx.co/tags/hugo/</guid>
-=======
-        <link>http://example.org/tags/hugo/</link>
-        <pubDate>Wed, 18 Dec 2019 10:33:41 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
-        
-        <guid>http://example.org/tags/hugo/</guid>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
         <description></description>
         
         <dc:creator>zzossig</dc:creator>
@@ -242,19 +168,11 @@
       
       <item>
         <title>amoji</title>
-<<<<<<< HEAD
         <link>https://unityx.co/tags/amoji/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>zzossig@gmail.com (zzossig)</author>
         
         <guid>https://unityx.co/tags/amoji/</guid>
-=======
-        <link>http://example.org/tags/amoji/</link>
-        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
-        
-        <guid>http://example.org/tags/amoji/</guid>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
         <description></description>
         
         <dc:creator>zzossig</dc:creator>
@@ -268,19 +186,11 @@
       
       <item>
         <title>bamoji</title>
-<<<<<<< HEAD
         <link>https://unityx.co/tags/bamoji/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>zzossig@gmail.com (zzossig)</author>
         
         <guid>https://unityx.co/tags/bamoji/</guid>
-=======
-        <link>http://example.org/tags/bamoji/</link>
-        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
-        
-        <guid>http://example.org/tags/bamoji/</guid>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
         <description></description>
         
         <dc:creator>zzossig</dc:creator>
@@ -294,19 +204,11 @@
       
       <item>
         <title>emoji</title>
-<<<<<<< HEAD
         <link>https://unityx.co/tags/emoji/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>zzossig@gmail.com (zzossig)</author>
         
         <guid>https://unityx.co/tags/emoji/</guid>
-=======
-        <link>http://example.org/tags/emoji/</link>
-        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
-        
-        <guid>http://example.org/tags/emoji/</guid>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
         <description></description>
         
         <dc:creator>zzossig</dc:creator>
@@ -320,19 +222,11 @@
       
       <item>
         <title>gamoji</title>
-<<<<<<< HEAD
         <link>https://unityx.co/tags/gamoji/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>zzossig@gmail.com (zzossig)</author>
         
         <guid>https://unityx.co/tags/gamoji/</guid>
-=======
-        <link>http://example.org/tags/gamoji/</link>
-        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
-        
-        <guid>http://example.org/tags/gamoji/</guid>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
         <description></description>
         
         <dc:creator>zzossig</dc:creator>
@@ -346,19 +240,11 @@
       
       <item>
         <title>namoji</title>
-<<<<<<< HEAD
         <link>https://unityx.co/tags/namoji/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>zzossig@gmail.com (zzossig)</author>
         
         <guid>https://unityx.co/tags/namoji/</guid>
-=======
-        <link>http://example.org/tags/namoji/</link>
-        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
-        
-        <guid>http://example.org/tags/namoji/</guid>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
         <description></description>
         
         <dc:creator>zzossig</dc:creator>
@@ -372,19 +258,11 @@
       
       <item>
         <title>diagram</title>
-<<<<<<< HEAD
         <link>https://unityx.co/tags/diagram/</link>
         <pubDate>Sun, 17 Nov 2019 12:00:06 +0900</pubDate>
         <author>zzossig@gmail.com (zzossig)</author>
         
         <guid>https://unityx.co/tags/diagram/</guid>
-=======
-        <link>http://example.org/tags/diagram/</link>
-        <pubDate>Sun, 17 Nov 2019 12:00:06 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
-        
-        <guid>http://example.org/tags/diagram/</guid>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
         <description></description>
         
         <dc:creator>zzossig</dc:creator>
@@ -398,19 +276,11 @@
       
       <item>
         <title>index</title>
-<<<<<<< HEAD
         <link>https://unityx.co/tags/index/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         <author>zzossig@gmail.com (zzossig)</author>
         
         <guid>https://unityx.co/tags/index/</guid>
-=======
-        <link>http://example.org/tags/index/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
-        
-        <guid>http://example.org/tags/index/</guid>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
         <description></description>
         
         <dc:creator>zzossig</dc:creator>

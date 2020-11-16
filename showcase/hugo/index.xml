@@ -6,15 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-<<<<<<< HEAD
     <title>Hugo on Unity X</title>
     <link>https://unityx.co/showcase/hugo/</link>
     <description>Recent content in Hugo on Unity X</description>
-=======
-    <title>Hugo on Hugo Zzo Theme</title>
-    <link>http://example.org/showcase/hugo/</link>
-    <description>Recent content in Hugo on Hugo Zzo Theme</description>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
@@ -22,11 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 19 Jan 2020 21:04:11 +0900</lastBuildDate>
     
-<<<<<<< HEAD
         <atom:link href="https://unityx.co/showcase/hugo/index.xml" rel="self" type="application/rss+xml" />
-=======
-        <atom:link href="http://example.org/showcase/hugo/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     
     
     
@@ -34,19 +24,11 @@
       
       <item>
         <title>Hugo Zzo Theme</title>
-<<<<<<< HEAD
         <link>https://unityx.co/showcase/hugo/hugo-theme-zzo/</link>
         <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
         <author>zzossig@gmail.com (zzossig)</author>
         <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
         <guid>https://unityx.co/showcase/hugo/hugo-theme-zzo/</guid>
-=======
-        <link>http://example.org/showcase/hugo/hugo-theme-zzo/</link>
-        <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
-        <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
-        <guid>http://example.org/showcase/hugo/hugo-theme-zzo/</guid>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
         <description></description>
         
         <dc:creator>zzossig</dc:creator>
@@ -60,19 +42,11 @@
       
       <item>
         <title>Hugo zDoc Theme</title>
-<<<<<<< HEAD
         <link>https://unityx.co/showcase/hugo/hugo-theme-zdoc/</link>
         <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
         <author>zzossig@gmail.com (zzossig)</author>
         <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
         <guid>https://unityx.co/showcase/hugo/hugo-theme-zdoc/</guid>
-=======
-        <link>http://example.org/showcase/hugo/hugo-theme-zdoc/</link>
-        <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
-        <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
-        <guid>http://example.org/showcase/hugo/hugo-theme-zdoc/</guid>
->>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
         <description></description>
         
         <dc:creator>zzossig</dc:creator>
