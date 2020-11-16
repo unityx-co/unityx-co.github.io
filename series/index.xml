@@ -6,9 +6,15 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
+<<<<<<< HEAD
     <title>Series on Unity X</title>
     <link>https://unityx.co/series/</link>
     <description>Recent content in Series on Unity X</description>
+=======
+    <title>Series on Hugo Zzo Theme</title>
+    <link>http://example.org/series/</link>
+    <description>Recent content in Series on Hugo Zzo Theme</description>
+>>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
@@ -16,7 +22,11 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 20 Dec 2019 12:00:06 +0900</lastBuildDate>
     
+<<<<<<< HEAD
         <atom:link href="https://unityx.co/series/index.xml" rel="self" type="application/rss+xml" />
+=======
+        <atom:link href="http://example.org/series/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     
     
     
@@ -24,11 +34,19 @@
       
       <item>
         <title>Themes Guide</title>
+<<<<<<< HEAD
         <link>https://unityx.co/series/themes-guide/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
         <author>zzossig@gmail.com (zzossig)</author>
         
         <guid>https://unityx.co/series/themes-guide/</guid>
+=======
+        <link>http://example.org/series/themes-guide/</link>
+        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        
+        <guid>http://example.org/series/themes-guide/</guid>
+>>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
         <description></description>
         
         <dc:creator>zzossig</dc:creator>

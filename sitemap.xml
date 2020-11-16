@@ -2,14 +2,22 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
+<<<<<<< HEAD
 	   	<loc>https://unityx.co/en/sitemap.xml</loc>
+=======
+	   	<loc>http://example.org/en/sitemap.xml</loc>
+>>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
 		
 	   	<lastmod>2020-03-05T14:08:48+00:00</lastmod>
 		
 	</sitemap>
 	
 	<sitemap>
+<<<<<<< HEAD
 	   	<loc>https://unityx.co/vn/sitemap.xml</loc>
+=======
+	   	<loc>http://example.org/ko/sitemap.xml</loc>
+>>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
 		
 	</sitemap>
 	

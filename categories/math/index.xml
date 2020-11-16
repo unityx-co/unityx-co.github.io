@@ -6,9 +6,15 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
+<<<<<<< HEAD
     <title>math on Unity X</title>
     <link>https://unityx.co/categories/math/</link>
     <description>Recent content in math on Unity X</description>
+=======
+    <title>math on Hugo Zzo Theme</title>
+    <link>http://example.org/categories/math/</link>
+    <description>Recent content in math on Hugo Zzo Theme</description>
+>>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
@@ -16,7 +22,11 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 16 Nov 2019 12:00:06 +0900</lastBuildDate>
     
+<<<<<<< HEAD
         <atom:link href="https://unityx.co/categories/math/index.xml" rel="self" type="application/rss+xml" />
+=======
+        <atom:link href="http://example.org/categories/math/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     
     
     
@@ -24,16 +34,28 @@
       
       <item>
         <title>MathJax support</title>
+<<<<<<< HEAD
         <link>https://unityx.co/posts/test-mathjax/</link>
         <pubDate>Sat, 16 Nov 2019 12:00:06 +0900</pubDate>
         <author>zzossig@gmail.com (zzossig)</author>
         <atom:modified>Sat, 16 Nov 2019 12:00:06 +0900</atom:modified>
         <guid>https://unityx.co/posts/test-mathjax/</guid>
+=======
+        <link>http://example.org/posts/test-mathjax/</link>
+        <pubDate>Sat, 16 Nov 2019 12:00:06 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <atom:modified>Sat, 16 Nov 2019 12:00:06 +0900</atom:modified>
+        <guid>http://example.org/posts/test-mathjax/</guid>
+>>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
         <description>When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$</description>
         
         <dc:creator>zzossig</dc:creator>
+<<<<<<< HEAD
         <media:content url="https://unityx.coimages/feature1/infinity.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+=======
+        <media:content url="http://example.orgimages/feature1/infinity.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+>>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
         
         
         
@@ -57,11 +79,19 @@ $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$</description>
       
       <item>
         <title>Katex support</title>
+<<<<<<< HEAD
         <link>https://unityx.co/posts/test-katex/</link>
         <pubDate>Fri, 15 Nov 2019 12:00:06 +0900</pubDate>
         <author>zzossig@gmail.com (zzossig)</author>
         <atom:modified>Fri, 15 Nov 2019 12:00:06 +0900</atom:modified>
         <guid>https://unityx.co/posts/test-katex/</guid>
+=======
+        <link>http://example.org/posts/test-katex/</link>
+        <pubDate>Fri, 15 Nov 2019 12:00:06 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <atom:modified>Fri, 15 Nov 2019 12:00:06 +0900</atom:modified>
+        <guid>http://example.org/posts/test-katex/</guid>
+>>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
         <description>The following
 $$ \int_{a}^{b} x^2 dx $$
 Is an integral
@@ -72,7 +102,11 @@ Note: For inline math to render correctly, your content file extension must be .
 Inline math: $ \varphi = \dfrac{1+\sqrt5}{2}= 1.</description>
         
         <dc:creator>zzossig</dc:creator>
+<<<<<<< HEAD
         <media:content url="https://unityx.coimages/feature2/mathbook.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+=======
+        <media:content url="http://example.orgimages/feature2/mathbook.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+>>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
         
         
         

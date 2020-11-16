@@ -6,9 +6,15 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
+<<<<<<< HEAD
     <title>gamoji on Unity X</title>
     <link>https://unityx.co/tags/gamoji/</link>
     <description>Recent content in gamoji on Unity X</description>
+=======
+    <title>gamoji on Hugo Zzo Theme</title>
+    <link>http://example.org/tags/gamoji/</link>
+    <description>Recent content in gamoji on Hugo Zzo Theme</description>
+>>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
@@ -16,7 +22,11 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 16 Dec 2019 12:00:06 +0900</lastBuildDate>
     
+<<<<<<< HEAD
         <atom:link href="https://unityx.co/tags/gamoji/index.xml" rel="self" type="application/rss+xml" />
+=======
+        <atom:link href="http://example.org/tags/gamoji/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     
     
     
@@ -24,11 +34,19 @@
       
       <item>
         <title>Emoji Support</title>
+<<<<<<< HEAD
         <link>https://unityx.co/posts/emoji-support/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>zzossig@gmail.com (zzossig)</author>
         <atom:modified>Mon, 16 Dec 2019 12:00:06 +0900</atom:modified>
         <guid>https://unityx.co/posts/emoji-support/</guid>
+=======
+        <link>http://example.org/posts/emoji-support/</link>
+        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <atom:modified>Mon, 16 Dec 2019 12:00:06 +0900</atom:modified>
+        <guid>http://example.org/posts/emoji-support/</guid>
+>>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
         <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
         
         <dc:creator>Kim</dc:creator>

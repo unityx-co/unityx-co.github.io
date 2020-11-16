@@ -6,9 +6,15 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
+<<<<<<< HEAD
     <title>shortcode on Unity X</title>
     <link>https://unityx.co/tags/shortcode/</link>
     <description>Recent content in shortcode on Unity X</description>
+=======
+    <title>shortcode on Hugo Zzo Theme</title>
+    <link>http://example.org/tags/shortcode/</link>
+    <description>Recent content in shortcode on Hugo Zzo Theme</description>
+>>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
@@ -16,7 +22,11 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 25 Jan 2020 06:40:51 +0900</lastBuildDate>
     
+<<<<<<< HEAD
         <atom:link href="https://unityx.co/tags/shortcode/index.xml" rel="self" type="application/rss+xml" />
+=======
+        <atom:link href="http://example.org/tags/shortcode/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
     
     
     
@@ -24,16 +34,28 @@
       
       <item>
         <title>Shortcodes</title>
+<<<<<<< HEAD
         <link>https://unityx.co/posts/shortcodes/</link>
         <pubDate>Sat, 25 Jan 2020 06:40:51 +0900</pubDate>
         <author>zzossig@gmail.com (zzossig)</author>
         <atom:modified>Sat, 25 Jan 2020 06:40:51 +0900</atom:modified>
         <guid>https://unityx.co/posts/shortcodes/</guid>
+=======
+        <link>http://example.org/posts/shortcodes/</link>
+        <pubDate>Sat, 25 Jan 2020 06:40:51 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <atom:modified>Sat, 25 Jan 2020 06:40:51 +0900</atom:modified>
+        <guid>http://example.org/posts/shortcodes/</guid>
+>>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
         <description>Markdownify box This is boxmd shortcode Simple box This is **box** shortcode  Code tabs Make it easy to switch between different code
 java javascript  1  System.out.println(&amp;#39;Hello World!&amp;#39;);     1  console.log(&amp;#39;Hello World!&amp;#39;);       &#39;use strict&#39;; var containerId = JSON.parse(&#34;\&#34;d96f892eb0443615\&#34;&#34;); var containerElem = document.getElementById(containerId); var codetabLinks = null; var codetabContents = null; var ids = []; if (containerElem) { codetabLinks = containerElem.</description>
         
         <dc:creator>zzossig</dc:creator>
+<<<<<<< HEAD
         <media:content url="https://unityx.coimages/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+=======
+        <media:content url="http://example.orgimages/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+>>>>>>> a5842309607838e452d9eddc681d74e4c3933ae3
         
         
         
